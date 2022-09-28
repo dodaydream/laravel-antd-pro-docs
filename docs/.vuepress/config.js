@@ -32,16 +32,8 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'Guide',
-        link: '/guide/whats-inside.html',
+        link: '/guide',
       },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
     ],
     sidebar: {
       '/guide/': [
@@ -50,8 +42,9 @@ export default defineUserConfig({
           collapsable: false,
           children: [
             '/guide/readme.md',
-            '/guide/whats-inside.md',
             '/guide/installation.md',
+	    '/guide/structure.md',
+            '/guide/whats-inside.md',
             '/guide/authentication.md',
             '/guide/authorization.md'
           ]
