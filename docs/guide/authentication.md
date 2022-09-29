@@ -19,3 +19,7 @@
 ```
 /logout?next=admin.login
 ```
+
+## 雙因素認證
+
+Laravel Antd Pro 默認開啓雙因素認證（2FA）的功能。用戶若開啓雙因素認證，則需要在登入時輸入一次性密碼（OTP）

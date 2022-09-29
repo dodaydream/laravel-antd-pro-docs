@@ -1,4 +1,4 @@
-# 簡介
+# 介紹
 
 Laravel Antd Pro 是一個建立於 [Laravel](https://laravel.com) 框架上， UI 採用 [Ant Design Pro](https://pro.ant.design) 風格的後臺構建框架。系統對 [Ant Design Vue](https://antdv.com) 進行了封裝。只需少許代碼，即可構建出完整的後臺系統。
 

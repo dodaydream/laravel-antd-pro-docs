@@ -31,25 +31,45 @@ export default defineUserConfig({
     lastUpdated: false,
     navbar: [
       {
-        text: 'Guide',
+        text: '指南',
         link: '/guide',
       },
+      {
+        text: '參考',
+        link: '/reference/use-table.html'
+      },
+      {
+        text: 'GitHub',
+        link: 'https://github.com/dodaydream/laravel-antd-pro'
+      }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: '指南',
           collapsable: false,
           children: [
             '/guide/readme.md',
             '/guide/installation.md',
-	    '/guide/structure.md',
+            '/guide/quick-start.md',
+            '/guide/structure.md',
             '/guide/whats-inside.md',
             '/guide/authentication.md',
             '/guide/authorization.md'
           ]
         }
       ],
+      '/reference/': [
+        {
+          title: '參考',
+          collapsable: false,
+          children: [
+            '/reference/use-table.md',
+            '/reference/use-form.md',
+            '/reference/crud-table.md',
+          ]
+        }
+      ]
     }
   }),
 

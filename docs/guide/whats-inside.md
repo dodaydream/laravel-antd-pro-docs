@@ -10,8 +10,8 @@
 ### 基礎項目
 
 框架基於 Laravel 9.x 搭建，集成 Octane 並使用 Swoole 運行，並且使用模塊化管理
+
 - "laravel/framework": "^9.19",
-- "laravel/octane": "^1.3",
 - "nwidart/laravel-modules": "^9.0",
 
 ### 認證與鑑權
