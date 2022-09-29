@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,b as e,d as r}from"./app.45919b24.js";const d={},o=e("h1",{id:"crudtable",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#crudtable","aria-hidden":"true"},"#"),r(" CrudTable")],-1),s=[o];function n(_,l){return t(),c("div",null,s)}const u=a(d,[["render",n],["__file","crud-table.html.vue"]]);export{u as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-34e322f2","path":"/reference/use-form.html","title":"useForm","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"dodaydream","email":"daydream2013@live.com","commits":1}]},"filePathRelative":"reference/use-form.md"}');export{e as data};

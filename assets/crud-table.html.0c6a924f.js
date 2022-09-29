@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0a6f7fc6","path":"/reference/crud-table.html","title":"CrudTable","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"contributors":[{"name":"dodaydream","email":"daydream2013@live.com","commits":1}]},"filePathRelative":"reference/crud-table.md"}');export{e as data};
